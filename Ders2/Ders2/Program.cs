@@ -4,6 +4,7 @@ namespace Ders2
 {
     class Program
     {
+        // Kdv kaç kuruştur.
         static void Main(string[] args)
         {
             double d = 4.5;
