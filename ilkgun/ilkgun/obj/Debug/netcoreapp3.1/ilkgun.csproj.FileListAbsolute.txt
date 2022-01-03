@@ -1,0 +1,14 @@
+C:\Users\303ENES_SABAH\Documents\GitHub\NetworkAcademy\ilkgun\ilkgun\bin\Debug\netcoreapp3.1\ilkgun.exe
+C:\Users\303ENES_SABAH\Documents\GitHub\NetworkAcademy\ilkgun\ilkgun\bin\Debug\netcoreapp3.1\ilkgun.deps.json
+C:\Users\303ENES_SABAH\Documents\GitHub\NetworkAcademy\ilkgun\ilkgun\bin\Debug\netcoreapp3.1\ilkgun.runtimeconfig.json
+C:\Users\303ENES_SABAH\Documents\GitHub\NetworkAcademy\ilkgun\ilkgun\bin\Debug\netcoreapp3.1\ilkgun.runtimeconfig.dev.json
+C:\Users\303ENES_SABAH\Documents\GitHub\NetworkAcademy\ilkgun\ilkgun\bin\Debug\netcoreapp3.1\ilkgun.dll
+C:\Users\303ENES_SABAH\Documents\GitHub\NetworkAcademy\ilkgun\ilkgun\bin\Debug\netcoreapp3.1\ilkgun.pdb
+C:\Users\303ENES_SABAH\Documents\GitHub\NetworkAcademy\ilkgun\ilkgun\obj\Debug\netcoreapp3.1\ilkgun.csproj.AssemblyReference.cache
+C:\Users\303ENES_SABAH\Documents\GitHub\NetworkAcademy\ilkgun\ilkgun\obj\Debug\netcoreapp3.1\ilkgun.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\303ENES_SABAH\Documents\GitHub\NetworkAcademy\ilkgun\ilkgun\obj\Debug\netcoreapp3.1\ilkgun.AssemblyInfoInputs.cache
+C:\Users\303ENES_SABAH\Documents\GitHub\NetworkAcademy\ilkgun\ilkgun\obj\Debug\netcoreapp3.1\ilkgun.AssemblyInfo.cs
+C:\Users\303ENES_SABAH\Documents\GitHub\NetworkAcademy\ilkgun\ilkgun\obj\Debug\netcoreapp3.1\ilkgun.csproj.CoreCompileInputs.cache
+C:\Users\303ENES_SABAH\Documents\GitHub\NetworkAcademy\ilkgun\ilkgun\obj\Debug\netcoreapp3.1\ilkgun.dll
+C:\Users\303ENES_SABAH\Documents\GitHub\NetworkAcademy\ilkgun\ilkgun\obj\Debug\netcoreapp3.1\ilkgun.pdb
+C:\Users\303ENES_SABAH\Documents\GitHub\NetworkAcademy\ilkgun\ilkgun\obj\Debug\netcoreapp3.1\ilkgun.genruntimeconfig.cache
