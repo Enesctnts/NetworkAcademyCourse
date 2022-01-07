@@ -71,12 +71,6 @@ namespace Ders5
             */
 
 
-
-
-
-
-
-
             Console.ReadLine();
         }
     }
