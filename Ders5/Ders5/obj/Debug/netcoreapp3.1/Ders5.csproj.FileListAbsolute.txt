@@ -1,0 +1,13 @@
+C:\Users\303ENES_SABAH\Documents\GitHub\NetworkAcademy\Ders5\Ders5\obj\Debug\netcoreapp3.1\Ders5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\303ENES_SABAH\Documents\GitHub\NetworkAcademy\Ders5\Ders5\obj\Debug\netcoreapp3.1\Ders5.AssemblyInfoInputs.cache
+C:\Users\303ENES_SABAH\Documents\GitHub\NetworkAcademy\Ders5\Ders5\obj\Debug\netcoreapp3.1\Ders5.AssemblyInfo.cs
+C:\Users\303ENES_SABAH\Documents\GitHub\NetworkAcademy\Ders5\Ders5\obj\Debug\netcoreapp3.1\Ders5.csproj.CoreCompileInputs.cache
+C:\Users\303ENES_SABAH\Documents\GitHub\NetworkAcademy\Ders5\Ders5\bin\Debug\netcoreapp3.1\Ders5.exe
+C:\Users\303ENES_SABAH\Documents\GitHub\NetworkAcademy\Ders5\Ders5\bin\Debug\netcoreapp3.1\Ders5.deps.json
+C:\Users\303ENES_SABAH\Documents\GitHub\NetworkAcademy\Ders5\Ders5\bin\Debug\netcoreapp3.1\Ders5.runtimeconfig.json
+C:\Users\303ENES_SABAH\Documents\GitHub\NetworkAcademy\Ders5\Ders5\bin\Debug\netcoreapp3.1\Ders5.runtimeconfig.dev.json
+C:\Users\303ENES_SABAH\Documents\GitHub\NetworkAcademy\Ders5\Ders5\bin\Debug\netcoreapp3.1\Ders5.dll
+C:\Users\303ENES_SABAH\Documents\GitHub\NetworkAcademy\Ders5\Ders5\bin\Debug\netcoreapp3.1\Ders5.pdb
+C:\Users\303ENES_SABAH\Documents\GitHub\NetworkAcademy\Ders5\Ders5\obj\Debug\netcoreapp3.1\Ders5.dll
+C:\Users\303ENES_SABAH\Documents\GitHub\NetworkAcademy\Ders5\Ders5\obj\Debug\netcoreapp3.1\Ders5.pdb
+C:\Users\303ENES_SABAH\Documents\GitHub\NetworkAcademy\Ders5\Ders5\obj\Debug\netcoreapp3.1\Ders5.genruntimeconfig.cache
