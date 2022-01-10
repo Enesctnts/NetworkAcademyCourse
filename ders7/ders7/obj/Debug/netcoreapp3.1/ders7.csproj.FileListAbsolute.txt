@@ -1,0 +1,14 @@
+C:\Users\303ENES_SABAH\Documents\GitHub\MyNetworkAcademy\ders7\ders7\bin\Debug\netcoreapp3.1\ders7.exe
+C:\Users\303ENES_SABAH\Documents\GitHub\MyNetworkAcademy\ders7\ders7\bin\Debug\netcoreapp3.1\ders7.deps.json
+C:\Users\303ENES_SABAH\Documents\GitHub\MyNetworkAcademy\ders7\ders7\bin\Debug\netcoreapp3.1\ders7.runtimeconfig.json
+C:\Users\303ENES_SABAH\Documents\GitHub\MyNetworkAcademy\ders7\ders7\bin\Debug\netcoreapp3.1\ders7.runtimeconfig.dev.json
+C:\Users\303ENES_SABAH\Documents\GitHub\MyNetworkAcademy\ders7\ders7\bin\Debug\netcoreapp3.1\ders7.dll
+C:\Users\303ENES_SABAH\Documents\GitHub\MyNetworkAcademy\ders7\ders7\bin\Debug\netcoreapp3.1\ders7.pdb
+C:\Users\303ENES_SABAH\Documents\GitHub\MyNetworkAcademy\ders7\ders7\obj\Debug\netcoreapp3.1\ders7.csproj.AssemblyReference.cache
+C:\Users\303ENES_SABAH\Documents\GitHub\MyNetworkAcademy\ders7\ders7\obj\Debug\netcoreapp3.1\ders7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\303ENES_SABAH\Documents\GitHub\MyNetworkAcademy\ders7\ders7\obj\Debug\netcoreapp3.1\ders7.AssemblyInfoInputs.cache
+C:\Users\303ENES_SABAH\Documents\GitHub\MyNetworkAcademy\ders7\ders7\obj\Debug\netcoreapp3.1\ders7.AssemblyInfo.cs
+C:\Users\303ENES_SABAH\Documents\GitHub\MyNetworkAcademy\ders7\ders7\obj\Debug\netcoreapp3.1\ders7.csproj.CoreCompileInputs.cache
+C:\Users\303ENES_SABAH\Documents\GitHub\MyNetworkAcademy\ders7\ders7\obj\Debug\netcoreapp3.1\ders7.dll
+C:\Users\303ENES_SABAH\Documents\GitHub\MyNetworkAcademy\ders7\ders7\obj\Debug\netcoreapp3.1\ders7.pdb
+C:\Users\303ENES_SABAH\Documents\GitHub\MyNetworkAcademy\ders7\ders7\obj\Debug\netcoreapp3.1\ders7.genruntimeconfig.cache
