@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders_11_OOP_Kalitim", "Ders_11_OOP_Kalitim\Ders_11_OOP_Kalitim.csproj", "{DA3A47FB-0A11-4FA2-9E10-A92C75F21211}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA3A47FB-0A11-4FA2-9E10-A92C75F21211}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA3A47FB-0A11-4FA2-9E10-A92C75F21211}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA3A47FB-0A11-4FA2-9E10-A92C75F21211}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA3A47FB-0A11-4FA2-9E10-A92C75F21211}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E103522B-763A-40CB-881D-93E140749CAC}
+	EndGlobalSection
+EndGlobal
